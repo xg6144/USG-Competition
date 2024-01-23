@@ -1,0 +1,9 @@
+names:
+- ic
+- capacitor
+- resistor
+nc: 3
+train: "/home/ubuntu/storage2/dongbeen/Competition_task2/\uC911\uAE09_\uC81C\uCD9C\
+  \uD30C\uC77C/generate_data/train/images/"
+val: "/home/ubuntu/storage2/dongbeen/Competition_task2/\uC911\uAE09_\uC81C\uCD9C\uD30C\
+  \uC77C/generate_data/val/images/"
